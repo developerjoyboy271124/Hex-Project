@@ -1,6 +1,6 @@
 # 🚀 Hex AI Oracle Cloud Quickstart - Copy & Paste Guide
 
-**Domain:** https://hexai.website/  
+**Domain:** https://hex-agent.netlify.app/  
 **Setup Time:** 30 minutes  
 **Cost:** $0/month (FREE FOREVER)
 
